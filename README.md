@@ -1,14 +1,16 @@
-VidJoiner
+# VidJoiner
 A video Concatenation Script
 This script concatenates multiple video files into a single video using the MoviePy library.
 
-Features
+## Features
 Concatenation: Combines multiple video files into a single video.
 Output: Exports the concatenated video in MP4 format with the libx264 codec at 24 fps.
-Requirements
+
+## Requirements
 Python 3.x
 MoviePy
-Installation
+
+## Installation
 Clone this repository to your local machine.
 
 Install the required dependencies using pip:
