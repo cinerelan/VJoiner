@@ -1,6 +1,5 @@
 # VidJoiner
-A video Concatenation Script
-This script concatenates multiple video files into a single video using the MoviePy library.
+A video Concatenation Script that concatenates multiple video files into a single video using the MoviePy library.
 
 ## Features
 **Concatenation:** Combines multiple video files into a single video.
