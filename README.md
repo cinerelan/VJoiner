@@ -12,16 +12,15 @@ A video Concatenation Script that concatenates multiple video files into a singl
   <li>MoviePy</li>
 </ul>
 
+
 ## Installation
 <ol>
   <li>Clone this repository to your local machine.</li>
   <li>
     Install the required dependencies using pip:
-    ```bash
-    pip install moviepy
+    <pre><code>pip install moviepy</code></pre>
   </li>
 </ol>
-
 
 ## Usage
 <ol>
