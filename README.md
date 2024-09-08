@@ -25,12 +25,10 @@ A video Concatenation Script that concatenates multiple video files into a singl
 ## Usage
 <ol>
   <li>Place your input video files in the specified paths or update the paths in the script.</li>
-  <li>Set the output_directory variable to your desired output folder.</li>
+  <li>Set the **output_directory** variable to your desired output folder.</li>
   <li>
     Run the script:
-    bash
-    Copier le code
-    python video_concatenation_script.py
+    <pre><code>python vidjoiner.py</code></pre>
   </li>
-  <li>The concatenated video will be saved as output.mp4 in the specified output directory.</li>
+  <li>The concatenated video will be saved as **output.mp4** in the specified output directory.</li>
 </ol>
