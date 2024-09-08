@@ -17,8 +17,7 @@ A video Concatenation Script that concatenates multiple video files into a singl
   <li>Clone this repository to your local machine.</li>
   <li>
     Install the required dependencies using pip:
-    bash
-    Copier le code
+    ```bash
     pip install moviepy
   </li>
 </ol>
