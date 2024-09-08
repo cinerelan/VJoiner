@@ -3,10 +3,12 @@ A video Concatenation Script that concatenates multiple video files into a singl
 
 ## Features
 **Concatenation:** Combines multiple video files into a single video.
+<br />
 **Output:** Exports the concatenated video in MP4 format with the libx264 codec at 24 fps.
 
 ## Requirements
 Python 3.x
+<br />
 MoviePy
 
 ## Installation
