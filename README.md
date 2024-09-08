@@ -7,26 +7,32 @@ A video Concatenation Script that concatenates multiple video files into a singl
 **Output:** Exports the concatenated video in MP4 format with the libx264 codec at 24 fps.
 
 ## Requirements
-Python 3.x
-<br />
-MoviePy
+<ul>
+  <li>Python 3.x</li>
+  <li>MoviePy</li>
+</ul>
 
 ## Installation
-Clone this repository to your local machine.
+<ol>
+  <li>Clone this repository to your local machine.</li>
+  <li>
+    Install the required dependencies using pip:
+    bash
+    Copier le code
+    pip install moviepy
+  </li>
+</ol>
 
-Install the required dependencies using pip:
 
-bash
-Copier le code
-pip install moviepy
-Usage
-Place your input video files in the specified paths or update the paths in the script.
-
-Set the output_directory variable to your desired output folder.
-
-Run the script:
-
-bash
-Copier le code
-python video_concatenation_script.py
-The concatenated video will be saved as output.mp4 in the specified output directory.
+## Usage
+<ol>
+  <li>Place your input video files in the specified paths or update the paths in the script.</li>
+  <li>Set the output_directory variable to your desired output folder.</li>
+  <li>
+    Run the script:
+    bash
+    Copier le code
+    python video_concatenation_script.py
+  </li>
+  <li>The concatenated video will be saved as output.mp4 in the specified output directory.</li>
+</ol>
